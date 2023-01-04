@@ -33,7 +33,7 @@ screenshot of the representation
 I have used HTML, CSS, Bootstrap, jQuery,.,  
 
 ## Links for Submission
-Deployed website link: https://helenhosse.github.io/Portfolio/
+Deployed website link: https://helenhosse.github.io/workdayscheduler/
 
 GitHub repository link: https://github.com/helenhosse/workdayscheduler
 
