@@ -27,7 +27,7 @@ I have provided 2 links at the end of this page that should be able to work on a
 ## Visual Representation
 screenshot of the representation
 ## The Result
-I have used HTML, CSS, Bootstrap, ,.,  
+I have used HTML, CSS, Bootstrap, jQuery,.,  
 
 ## Links for Submission
 Deployed website link: https://helenhosse.github.io/Portfolio/

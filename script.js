@@ -1,4 +1,17 @@
-$("#currentDay").text(moment().format('dddd MMMM Do YYYY'));
+// adding the time at the top of the page
+
+$(document).ready(function () {
+    
+    var displayTime = $("#currentTime");
+    var numberHours = 12;
+    var saveBtn = $(".saveBtn");
+    var clearBtn = $(".clearBtn");
+    var saveAllBtn = $("#saveAll");
+    var clearAllBtn = $("#clearAll")
+});
+
+
+("#currentDay").text(moment().format('MMMM Do YYYY, h:mm:ss a'));
 
 function timeBlock() {
     var hour = moment().hours();
@@ -6,10 +19,10 @@ function timeBlock() {
     console.log (timeBlock);
 
     $(".time-block").each(function() {
-        var currrentHour = parseInt($(this).attr("id"));
-        if (currentHour > hour) {
+        var currentTime = parseInt($(this).attr("id"));
+        if (currrentTime > hour) {
             $(this).addClass("future");
-        } else if (currentHour === hour) {
+        } else if (currrentTime === hour) {
             $(this).addClass("present");
         } else {
             $(this).addClass("past");
