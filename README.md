@@ -26,13 +26,16 @@ THEN the saved events persist
 I have provided 2 links at the end of this page that should be able to work on any device.
 ## Visual Representation
 screenshot of the representation
+
+<img src="Screenshot%202023-01-04%20000004.png)" alt="photo of deployed workday scheduler
+
 ## The Result
 I have used HTML, CSS, Bootstrap, jQuery,.,  
 
 ## Links for Submission
 Deployed website link: https://helenhosse.github.io/Portfolio/
 
-GitHub repository link: https://github.com/helenhosse/Portfolio
+GitHub repository link: https://github.com/helenhosse/workdayscheduler
 
 ## Credit
 I referenced our class materials and received help from our TAs and my tutor Suresh Kumar.
