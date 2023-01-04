@@ -6,7 +6,7 @@ $(document).ready(function () {
     var saveBtn = $(".saveBtn");
 
 // this will show the time at the top of the page
-displayTime.html(moment().format('MMMM Do YYYY'));
+displayTime.html(moment().subtract(10, 'days').calendar());
 
 function timeBlock() {
     var hour = moment().hours();
